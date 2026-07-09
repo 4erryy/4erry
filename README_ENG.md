@@ -47,5 +47,3 @@ I am an Information Security student at the Financial University under the Gover
 * **Location:** Moscow (Open to Office / Hybrid / Remote roles)
 
 ---
-
-💡 *Looking for my official resume? You can download the PDF version directly from this repository:* `[Download PDF Resume](./Vishnyakov_Tikhon_MLOps.pdf)` *(Make sure to upload your PDF file to this repo with the exact same name)*
