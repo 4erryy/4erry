@@ -1,5 +1,5 @@
 # Hi there! I'm Tikhon Vishnyakov 👋
-🇷🇺 [Читать на русском языке](./README_RU.md)
+🇷🇺 [Читать резюме на русском языке](./README_RU.md) | 📄 Download: [PDF English](./Vishnyakov_Tikhon_MLOps_EN.pdf) / [PDF Russian](./Vishnyakov_Tikhon_MLOps_RU.pdf)
 **MLOps / DevOps Engineer Intern | DevSecOps Enthusiast**
 
 I am an Information Security student at the Financial University under the Government of the Russian Federation. I combine a strong algorithmic background from a top physics and mathematics school with practical experience in building modular Python systems, Linux systems administration, and infrastructure automation. I am looking to kickstart my career as an MLOps/DevOps intern, focusing on continuous delivery, containerization, and automated environment provisioning.
